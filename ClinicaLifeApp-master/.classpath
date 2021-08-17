@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="dist/ClinicaLifeApp.jar"/>
+	<classpathentry kind="lib" path="dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="dist/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/absolutelayout/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-web-api-7.0/javaee-doc-api.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-web-api-7.0/javaee-web-api-7.0.jar"/>
+	<classpathentry kind="lib" path="lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/jdatepicker-1.3.4.jar"/>
+	<classpathentry kind="lib" path="lib/MySQLDriver/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="lib/restapi/javax.ws.rs-api-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/asm-all-repackaged-2.2.0-b21.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/cglib-2.2.0-b21.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/eclipselink.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/guava-14.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/hk2-api-2.2.0-b21.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/hk2-locator-2.2.0-b21.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/hk2-utils-2.2.0-b21.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/javax.inject-2.2.0-b21.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/jersey-client.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/jersey-common.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/jersey-entity-filtering-2.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/jersey-media-moxy-2.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/jersey-server.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/restlib/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivani/Desktop/mysql-connector-java-8.0.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivani/Desktop/sonar-application-9.0.1.46107.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
